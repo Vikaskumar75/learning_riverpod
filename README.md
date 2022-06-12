@@ -1,4 +1,4 @@
-# quiz_app
+# Learning Riverpod
 
 A new Flutter project.
 
